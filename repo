@@ -1,13 +1,11 @@
-vdr-patches.2.6.4.tar.gz
+vdr-patches.2.6.9.tar.gz
 Make.config.tar.gz
 wvdrsymbols.tar.gz
-radio_scripts.tar.gzwget
+radio_scripts.tar.gz
 patch_iptv.tar.gz
 iptv_conf.tar.gz
 traduzioni.tar.gz
 icone.tar.gz
-oscam.tar.gz
-oscam64.tar.gz
 driver_dvb.tar.gz
 eventlircd_patch.tar.gz
 eventlircd.conf.tar.gz
@@ -31,6 +29,6 @@ channels.conf.camper.tar.gz
 autostart.tar.gz
 setup16_softhddevice.tar.gz
 setup16_softhdcuvid.tar.gz
-kodi_picon.tar.gz
+kodi_iptv.tar.gz
 Lircmap_Kodi.tar.gz
 
